@@ -8,14 +8,14 @@ global.APIs = {
 // SETTINGS API (WAJIB)
 
 global.APIKeys = {
-  "https://jerofc.my.id": "YOUR_KEY", // WAJIB ISI
+  "https://jerofc.my.id": "dmJmrM", // WAJIB ISI
 };
 
-global.jerapi = "YOUR_KEY"; // WAJIB ISI
+global.jerapi = "dmJmrM"; // WAJIB ISI
 
-global.owner = ["6289529382858"]; //ganti nomor owner hp kalian
-global.namabot = "JER OFC";
-global.namaowner = "JER OFC";
+global.owner = ["62895705211393"]; //ganti nomor owner hp kalian
+global.namabot = "Z10";
+global.namaowner = "reksa";
 global.sessionName = "session";
 global.pp_bot = fs.readFileSync("./image/menu.jpg");
 
